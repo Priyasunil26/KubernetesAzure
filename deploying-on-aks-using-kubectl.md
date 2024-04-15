@@ -23,7 +23,7 @@ Refer to this [link](aksdocument.md) for setting up an AKS cluster on Microsoft 
 
 **4. Database** 
 
-Choose and set up a  [database](database-setup.md) for Bold BI, such as Microsoft SQL Server 2012+, PostgreSQL, or MySQL. This database will store the application data.
+Choose and set up a  [database](azure-database-setup.md) for Bold BI, such as Microsoft SQL Server 2012+, PostgreSQL, or MySQL. This database will store the application data.
 
 **5. Load Balancer** 
 

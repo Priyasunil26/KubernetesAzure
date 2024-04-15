@@ -14,4 +14,4 @@ You can deploy Bold BI on AKS using two process
 <ol>
 
 1. [Using Helm]()
-2. [Using Kubectl]()
+2. [Using Kubectl](deploying-on-aks-using-kubectl.md)
